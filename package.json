@@ -1,0 +1,16 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "should": "^13.1.3"
+  }
+}
